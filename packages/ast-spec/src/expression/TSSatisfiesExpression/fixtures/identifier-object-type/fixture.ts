@@ -1,1 +1,0 @@
-foo satisfies { prop: 'value' };

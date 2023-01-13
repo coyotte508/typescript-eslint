@@ -1,1 +1,0 @@
-const noSemi: any = true;

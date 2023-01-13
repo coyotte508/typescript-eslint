@@ -1,3 +1,0 @@
-@decoratorOne
-@decoratorTwo
-class Foo {}

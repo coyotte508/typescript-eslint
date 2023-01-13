@@ -1,1 +1,0 @@
-interface F extends A {}
